@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "id": "art-1",
+      "title": "Cadre Photo Sublimation",
+      "description": "Personnalisez un cadre photo unique avec votre image préférée pour un cadeau mémorable...",
+      "price": 35.00,
+      "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=300"
+    },
+    {
+      "id": "art-2",
+      "title": "Cadre Photo Sublimation",
+      "description": "Personnalisez un cadre photo unique avec votre image préférée pour un cadeau mémorable...",
+      "price": 35.00,
+      "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=300"
+    }
+  ],
+  "services": [
+    {
+      "id": "serv-1",
+      "title": "Consultation Création Logo",
+      "description": "Personnalisez un cadre photo unique avec votre image préférée pour un cadeau mémorable...",
+      "price": 35.00,
+      "image": ""
+    },
+    {
+      "id": "serv-2",
+      "title": "Consultation Création Logo",
+      "description": "Personnalisez un cadre photo unique avec votre image préférée pour un cadeau mémorable...",
+      "price": 45.00,
+      "image": ""
+    }
+  ]
+}
